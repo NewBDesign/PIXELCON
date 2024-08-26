@@ -32,14 +32,6 @@
     "dimensions": "960x1920"
     },
     {
-    "name": "City",
-    "author": "NB Design",
-    "url": "https://github.com/NewBDesign/NBWallpapers/blob/main/wallpapers/phone/City.png?raw=true",
-    "collections": "Phone",
-    "downloadable": true,
-    "dimensions": "960x1920"
-    },
-    {
     "name": "Cosmos",
     "author": "NB Design",
     "url": "https://github.com/NewBDesign/NBWallpapers/blob/main/wallpapers/phone/Cosmos.png?raw=true",
@@ -56,6 +48,14 @@
     "dimensions": "960x1920"
     },
     {
+    "name": "Downtown",
+    "author": "NB Design",
+    "url": "https://github.com/NewBDesign/NBWallpapers/blob/main/wallpapers/phone/Downtown.png?raw=true",
+    "collections": "Phone",
+    "downloadable": true,
+    "dimensions": "960x1920"
+    },
+    {
     "name": "Duck",
     "author": "NB Design",
     "url": "https://github.com/NewBDesign/NBWallpapers/blob/main/wallpapers/phone/Duck.png?raw=true",
@@ -67,6 +67,14 @@
     "name": "Flame",
     "author": "NB Design",
     "url": "https://github.com/NewBDesign/NBWallpapers/blob/main/wallpapers/phone/Flame.png?raw=true",
+    "collections": "Phone",
+    "downloadable": true,
+    "dimensions": "960x1920"
+    },
+    {
+    "name": "Function",
+    "author": "NB Design",
+    "url": "https://github.com/NewBDesign/NBWallpapers/blob/main/wallpapers/phone/Function.png?raw=true",
     "collections": "Phone",
     "downloadable": true,
     "dimensions": "960x1920"
@@ -168,14 +176,6 @@
     "dimensions": "960x1920"
     },
     {
-    "name": "Shapes",
-    "author": "NB Design",
-    "url": "https://github.com/NewBDesign/NBWallpapers/blob/main/wallpapers/phone/Shapes.png?raw=true",
-    "collections": "Phone",
-    "downloadable": true,
-    "dimensions": "960x1920"
-    },
-    {
     "name": "Splatter",
     "author": "NB Design",
     "url": "https://github.com/NewBDesign/NBWallpapers/blob/main/wallpapers/phone/Splatter.png?raw=true",
@@ -198,6 +198,14 @@
     "collections": "Phone",
     "downloadable": true,
     "dimensions": "960x1920"
+    },
+    {
+    "name": "Abstract",
+    "author": "NB Design",
+    "url": "https://github.com/NewBDesign/NBWallpapers/blob/main/wallpapers/tablet/Level.png?raw=true",
+    "collections": "Tablet",
+    "downloadable": true,
+    "dimensions": "1920x1280"
     },
     {
     "name": "Bubbles",
@@ -288,14 +296,6 @@
     "dimensions": "1920x1280"
     },
     {
-    "name": "Forms",
-    "author": "NB Design",
-    "url": "https://github.com/NewBDesign/NBWallpapers/blob/main/wallpapers/tablet/Forms.png?raw=true",
-    "collections": "Tablet",
-    "downloadable": true,
-    "dimensions": "1920x1280"
-    },
-    {
     "name": "Fruits",
     "author": "NB Design",
     "url": "https://github.com/NewBDesign/NBWallpapers/blob/main/wallpapers/tablet/Fruits.png?raw=true",
@@ -304,17 +304,17 @@
     "dimensions": "1920x1280"
     },
     {
-    "name": "Iceberg",
+    "name": "Geometry",
     "author": "NB Design",
-    "url": "https://github.com/NewBDesign/NBWallpapers/blob/main/wallpapers/tablet/Iceberg.png?raw=true",
+    "url": "https://github.com/NewBDesign/NBWallpapers/blob/main/wallpapers/tablet/Geometry.png?raw=true",
     "collections": "Tablet",
     "downloadable": true,
     "dimensions": "1920x1280"
     },
     {
-    "name": "Level",
+    "name": "Iceberg",
     "author": "NB Design",
-    "url": "https://github.com/NewBDesign/NBWallpapers/blob/main/wallpapers/tablet/Level.png?raw=true",
+    "url": "https://github.com/NewBDesign/NBWallpapers/blob/main/wallpapers/tablet/Iceberg.png?raw=true",
     "collections": "Tablet",
     "downloadable": true,
     "dimensions": "1920x1280"
